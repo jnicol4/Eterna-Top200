@@ -1,0 +1,6 @@
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\bin\Debug\PlayerStats.exe.config
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\bin\Debug\PlayerStats.exe
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\bin\Debug\PlayerStats.pdb
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\obj\Debug\PlayerStats.exe
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\obj\Debug\PlayerStats.pdb
+C:\Users\jnicol\Documents\Personal\eterna\top200\PlayerStats\PlayerStats\obj\Debug\PlayerStats.csprojResolveAssemblyReference.cache
